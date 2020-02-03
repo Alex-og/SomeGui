@@ -1,5 +1,7 @@
+package MiniMidi;
+
+
 import javax.sound.midi.*;
-import javax.swing.*;
 
 public class MiniMidiMusicApp {
 
